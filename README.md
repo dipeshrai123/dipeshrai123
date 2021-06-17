@@ -1,5 +1,6 @@
-### Hi there 👋
-💬 Ask me about - Javascript / React JS / Next JS / React Native
+### Hi, I'm Dipesh 👋
+
+Welcome to my github page 😄
 <!--
 **dipeshrai123/dipeshrai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
